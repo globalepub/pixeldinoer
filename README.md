@@ -1,6 +1,7 @@
 # Pixel Dino Run ✨
 
-A classic endless runner game with pixelated retro aesthetics, enhanced with AI-generated storytelling! After each game, generate a unique, epic (and slightly silly) story about your dinosaur's adventure based on your score.
+* A classic endless runner game with pixelated retro aesthetics, enhanced with AI-generated storytelling! 
+* After each game, generate a unique, epic (and slightly silly) story about your dinosaur's adventure based on your score.
 
 ![Gameplay Screenshot](screenshot.png) *<!-- Add actual screenshot file later -->*
 
@@ -55,6 +56,7 @@ Example story:
 | Game Engine    | JavaScript (p5.js)  |
 | AI Integration | Gemini API          |
 | Design         | Pixel Art           |
+
 
 
 
