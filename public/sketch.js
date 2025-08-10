@@ -274,7 +274,7 @@ async function generateDinoFact() {
     let chatHistory = [];
     chatHistory.push({ role: "user", parts: [{ text: "Give me one interesting and concise fact about dinosaurs. Keep it under 100 words." }] });
     const payload = { contents: chatHistory };
-    const apiKey = "AIzaSyBdEZFeD7FfQle-gY1WkFQtexsrtpnDqLM"; // If you want to use models other than gemini-2.0-flash or imagen-3.0-generate-002, provide an API key here. Otherwise, leave this as-is.
+    const apiKey = "API_Key"; // If you want to use models other than gemini-2.0-flash or imagen-3.0-generate-002, provide an API key here. Otherwise, leave this as-is.
     const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`;
 
     try {
