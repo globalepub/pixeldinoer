@@ -4,14 +4,9 @@ A classic endless runner game with pixelated retro aesthetics, enhanced with AI-
 
 ![Gameplay Screenshot](screenshot.png) *<!-- Add actual screenshot file later -->*
 
+
 [Vibe-code a kids game with Gemini and publish with Firebase!](https://codelabs.developers.google.com/codelabs/)
 
-## Gemini API
-
-**Add you API Key to sketch.js file**
-- *// Gemini API related variables*
-- let dinoFact = 'API_Key'; // Your API Key to store the generated dinosaur fact
-- let isLoadingFact = false; // To show loading state for the API call
 
 ## Features
 
@@ -71,6 +66,7 @@ Example story:
 - `noSmooth()` for crisp pixel rendering  
 - Parallax scrolling hills for depth  
 - Minimalist UI for retro authenticity  
+
 
 
 
