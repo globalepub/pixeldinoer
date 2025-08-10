@@ -56,16 +56,7 @@ Example story:
 | AI Integration | Gemini API          |
 | Design         | Pixel Art           |
 
-## Development Notes
 
-🔒 **Security**  
-- Gemini API key handled securely via Canvas environment  
-- No client-side exposure of sensitive data  
-
-🎨 **Design Choices**  
-- `noSmooth()` for crisp pixel rendering  
-- Parallax scrolling hills for depth  
-- Minimalist UI for retro authenticity  
 
 
 
