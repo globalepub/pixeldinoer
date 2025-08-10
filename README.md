@@ -1,10 +1,10 @@
-# Pixel Dino Run ✨ AI Story
+# Pixel Dino Run ✨
 
 A classic endless runner game with pixelated retro aesthetics, enhanced with AI-generated storytelling! After each game, generate a unique, epic (and slightly silly) story about your dinosaur's adventure based on your score.
 
 ![Gameplay Screenshot](screenshot.png) *<!-- Add actual screenshot file later -->*
 
-![Vibe-code a kids game with Gemini and publish with Firebase!](https://codelabs.developers.google.com/codelabs/)
+[Vibe-code a kids game with Gemini and publish with Firebase!](https://codelabs.developers.google.com/codelabs/)
 
 ## Gemini API
 
@@ -71,4 +71,5 @@ Example story:
 - `noSmooth()` for crisp pixel rendering  
 - Parallax scrolling hills for depth  
 - Minimalist UI for retro authenticity  
+
 
