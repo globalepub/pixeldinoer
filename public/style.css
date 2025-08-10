@@ -1,0 +1,25 @@
+/* Basic styling for the body and game container */
+body {
+    font-family: 'Inter', sans-serif; /* Apply Inter font */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+/* Style for the game container to center the canvas and add a border/shadow */
+#game-container {
+    /* The canvas will automatically fill this container based on sketch.js setup */
+    display: flex; /* Use flexbox to center content if needed */
+    justify-content: center;
+    align-items: center;
+    background-color: #1a202c; /* Dark background for the container */
+}
+
+/* Style for the p5.js canvas */
+canvas {
+    display: block; /* Remove extra space below canvas */
+    border-radius: 0.5rem; /* Rounded corners */
+    /* p5.js will set width/height, but these ensure it fits within the container */
+    max-width: 100%;
+    height: auto;
+}
