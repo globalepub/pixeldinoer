@@ -34,9 +34,8 @@ Easy to pick up and play for all ages
    - *Mobile*: Tap anywhere on screen  
 3. **Avoid Obstacles** - Clear cacti to keep running  
 4. **Score** - Increases as you survive longer  
-5. **Game Over** - Collide with an obstacle to end the run  
-6. **Generate Story** - Click "✨ Generate Dino's Epic Tale" button post-game  
-7. **Restart** - Press 'R' key or tap screen (outside modal)  
+5. **Game Over** - Collide with an obstacle to end the run   
+6. **Restart** - Press 'R' key or tap screen (outside modal)  
 
 ## AI Storytelling
 
@@ -56,6 +55,7 @@ Example story:
 | Game Engine    | JavaScript (p5.js)  |
 | AI Integration | Gemini API          |
 | Design         | Pixel Art           |
+
 
 
 
